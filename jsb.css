@@ -1,0 +1,56 @@
+#rapper{
+    background-color:rgb(73, 100, 9);
+    width: 970px;
+    height:500px;
+    margin:5px;
+    padding:5px;
+}
+h1{
+    font-size:200%;
+}
+h2{
+    font-size:150%;
+}
+h3{
+    font-size:125%;
+}
+#heading{
+    background-color:rgba(255, 0, 0, 0.733);
+    padding:15px;
+    margin:10px;
+    border-radius:20px;
+}
+#heading p{
+    color:orange;
+}
+#content{
+    background-color:red;
+    display:inline-block;
+    height:280px;
+    width:70%;
+    padding:10px;
+    margin:10px;
+    border-radius:20px;
+    vertical-align: top;
+}
+#sidebar{
+    display:inline-block;
+    background-color:teal;
+    padding:20px;
+    margin:10px;
+    border-radius:20px;
+}
+#lower{
+    border-radius:20px;
+    background-color:gold;
+    padding:20px;
+    margin:30px;
+}
+p{color:blue;}
+.disc{
+    list-style: disc;
+}
+.control{
+    position:absolute;
+    left:50px;
+}
